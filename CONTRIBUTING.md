@@ -7,7 +7,8 @@ Estructura actual del proyecto.
   /css  
     styles.css  
   /js  
-    main.js  
+    main.js 
+  /ui 
 /assets  
   /images  
   /audio  
