@@ -18,6 +18,7 @@ Estructura actual del proyecto.
     src/: Código del juego.
       css/: archivos de estilo
       js/: archivos de codigo
+      ui/: elementos de la interfaz de usuario (botones, barras, etc.)
       
 
     
