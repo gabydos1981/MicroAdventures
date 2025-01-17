@@ -1,6 +1,6 @@
 CONTRIBUTING.md
 
-Estructura actual del proyecto.
+The actual project's current structure.
 
 /src   
   index.html  
@@ -16,20 +16,23 @@ Estructura actual del proyecto.
   /drafts  
 /docs
 
-    src/: Código del juego.
-      css/: archivos de estilo
-      js/: archivos de codigo
-      ui/: elementos de la interfaz de usuario (botones, barras, etc.)
+
+Detailed description:
+
+    src/: game code.
+      css/: style files.
+      js/: javascript code files.
+      ui/: user interface elements(butons, bars, etc.)
       
 
     
-    assets/: Elementos audiovisuales y narrativos.
+    assets/: Audiovisual and narrative elements.
     
-        images/: Gráficos y animaciones.
-        audio/:  Música y sonidos.
-        story/: historia y narrativa.
-        drafts/: borradores y pruebas.
+        images/: Graphics and animations files.
+        audio/:  Music and sound effects files.
+        story/:  story and related narrative elements files.
+        drafts/: put your ideas in files here and start the creative process.
 
-    docs/: documentacion del proyecto.
+    docs/: all the documentation of the project (help, guides and misc) goes here with three important exceptions: CONTRIBUTING.md, README.md and TEAM.md that are currently in the Microadventures root folder. 
 
     
